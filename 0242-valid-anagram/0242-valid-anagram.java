@@ -8,9 +8,10 @@ class Solution {
 
         for(int i=0;i<n;i++){
             freq[s.charAt(i)-'a']++;
+        }
+        for(int i=0;i<n;i++){
             freq[t.charAt(i)-'a']--;
         }
-        
         for(int i=0;i<n;i++){
            if( freq[s.charAt(i)-'a'] != 0){
             return false;
