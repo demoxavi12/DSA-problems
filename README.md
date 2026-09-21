@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/demoxavi12/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/demoxavi12/DSA-problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/demoxavi12/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/demoxavi12/DSA-problems/tree/master/0704-binary-search) |
 | [3524-find-x-value-of-array-i](https://github.com/demoxavi12/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 ## Matrix
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/demoxavi12/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/demoxavi12/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/demoxavi12/DSA-problems/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/demoxavi12/DSA-problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
