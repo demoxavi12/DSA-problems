@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/demoxavi12/DSA-problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/demoxavi12/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3524-find-x-value-of-array-i](https://github.com/demoxavi12/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/demoxavi12/DSA-problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/demoxavi12/DSA-problems/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/demoxavi12/DSA-problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/demoxavi12/DSA-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/demoxavi12/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3524-find-x-value-of-array-i](https://github.com/demoxavi12/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/demoxavi12/DSA-problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Recursion
 |  |
 | ------- |
