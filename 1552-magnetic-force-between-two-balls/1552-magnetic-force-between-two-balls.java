@@ -1,36 +1,44 @@
 class Solution {
-    
-    public boolean possible(int []position,int mid,int m){
-        int LastBall= position[0];
-            int NoofBalls=1;
-            for(int i=0;i<position.length;i++){
-                if(position[i]-LastBall >= mid){
-                    NoofBalls++;
-                    LastBall=position[i];
-                }
-                if(NoofBalls >= m){
-                    return true;
-                }
+
+    public boolean isValidAns(int[] position,int minDistance,int m){
+        int pos=position[0];
+        int ballNum=1;
+
+        for(int i=1;i<position.length;i++){
+          if((position[i]-pos)>=minDistance){
+             ballNum++;
+            pos=position[i];
+
+            if(ballNum==m){
+                return true;
             }
-            return false;
+          }
+
+        }
+          return false;
     }
     public int maxDistance(int[] position, int m) {
+        int start=0;
+        int n=position.length;
+
         Arrays.sort(position);
-        int n= position.length;
 
-        int low = 1;
-        int high = position[n-1]-position[0];
+       int end=position[n-1]-position[0];
+       int ans=-1;
 
-        while(low<=high){
-            int mid = (low+high)/2;
-            
-            if(possible(position,mid,m)){
-                
-                low =mid+1;
-            }else{
-                high =mid-1;
-            }
-        }
-        return high;
+
+       while(start<=end){
+        int mid=start+(end-start)/2;
+       
+       if(isValidAns(position,mid,m)){
+        ans=mid;
+        start=mid+1;
+       }
+       else{
+        end=mid-1;
+       }
+
+       }
+       return ans;
     }
 }
