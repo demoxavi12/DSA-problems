@@ -1,5 +1,19 @@
 class Solution {
     
+    public boolean possible(int []position,int mid,int m){
+        int LastBall= position[0];
+            int NoofBalls=1;
+            for(int i=0;i<position.length;i++){
+                if(position[i]-LastBall >= mid){
+                    NoofBalls++;
+                    LastBall=position[i];
+                }
+                if(NoofBalls >= m){
+                    return true;
+                }
+            }
+            return false;
+    }
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
         int n= position.length;
@@ -9,15 +23,8 @@ class Solution {
 
         while(low<=high){
             int mid = (low+high)/2;
-            int LastBall= position[0];
-            int NoofBalls=1;
-            for(int i=0;i<position.length;i++){
-                if(position[i]-LastBall >= mid){
-                    NoofBalls++;
-                    LastBall=position[i];
-                }
-            }
-            if(NoofBalls >= m){
+            
+            if(possible(position,mid,m)){
                 
                 low =mid+1;
             }else{
