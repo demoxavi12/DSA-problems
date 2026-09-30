@@ -3,14 +3,12 @@ class Solution {
         int allocatedStu=1;
         int pages =0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]>mid){
-                return false;
-            }else if(nums[i] + pages>mid){
-                allocatedStu += 1;
-                pages = nums[i];
-            }else{
-                pages += nums[i];
-            }
+           if(pages + nums[i]<=mid){
+            pages += nums[i];
+           }else{
+            allocatedStu += 1;
+            pages = nums[i];
+           }
             
         }
         return allocatedStu<=k;
@@ -22,6 +20,9 @@ class Solution {
         for(int i=0;i<n;i++){
             low = Math.max(nums[i],low);
             high += nums[i];
+        }
+        if(k==1){
+            return high;
         }
 
         while(low<=high){
