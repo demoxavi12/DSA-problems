@@ -7,17 +7,20 @@ class Solution {
 
         int n = nums.length;
         int count=0;
-        
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int distinct=0;
+       int hash[]= new int[n+1];
 
         while(right<n){
             int Rnum= nums[right];
-            map.put(Rnum,map.getOrDefault(Rnum,0)+1);
-            while(map.size() > k){
+            if(hash[Rnum]==0){
+                distinct++;
+            }
+            hash[Rnum]++;
+            while(distinct > k){
                 int Lnum=nums[left];
-                map.put(Lnum,map.getOrDefault(Lnum,0)-1);
-                if(map.get(Lnum)==0){
-                    map.remove(Lnum);
+               hash[Lnum]--;
+                if(hash[Lnum]==0){
+                    distinct--;
                 }
                 left++;
 
