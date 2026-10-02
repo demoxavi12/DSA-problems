@@ -5,17 +5,16 @@ class Solution {
         int maxLen=0;
         int n= s.length();
 
-        HashMap<Character,Integer> map = new HashMap<>();
+        int hash[]= new int[26];
         int maxf=0;
 
         while(right<n){
             char Rch = s.charAt(right);
-            
-            map.put(Rch,map.getOrDefault(Rch,0)+1);
-             maxf=Math.max(maxf,map.get(Rch));
+            hash[Rch-'A']++;
+            maxf=Math.max(maxf,hash[Rch-'A']);
             if((right-left+1)-maxf >k){
                 char Lch = s.charAt(left);
-                map.put(Lch,map.getOrDefault(Lch,0)-1);
+                hash[Lch-'A']--;
                 left ++;
             }
 
