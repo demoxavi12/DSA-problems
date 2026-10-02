@@ -13,7 +13,7 @@ class Solution {
             map.put(Cfruit,map.getOrDefault(Cfruit,0)+1);
 
             
-                while(map.size()>2){
+                if(map.size()>2){
                     
                     int Bfruit = fruits[left];
                     map.put(Bfruit,map.getOrDefault(Bfruit,0)-1);
