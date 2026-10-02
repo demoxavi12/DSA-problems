@@ -1,17 +1,13 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int count=0;
-        int hash[]= new int[3];
-        for(int i=0;i<3;i++){
-            hash[i]=-1;
+        int res = 0;
+        int[] p = {-1, -1, -1};
+        for(int i=0;i<s.length();i++)
+        {
+            p[(s.charAt(i) & 31)-1]=i;
+            res+=Math.min(p[0],Math.min(p[1],p[2]))+1;
         }
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            hash[s.charAt(i)-'a']=i;
-            if(hash[0] != -1 && hash[1] != -1 && hash[2] != -1){
-                count += (1+ Math.min(hash[0],Math.min(hash[1],hash[2])));
-            }
-        }
-        return count;
+        return res;
+        
     }
 }
