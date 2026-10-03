@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/demoxavi12/DSA-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/demoxavi12/DSA-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/demoxavi12/DSA-problems/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/demoxavi12/DSA-problems/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/demoxavi12/DSA-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/demoxavi12/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/demoxavi12/DSA-problems/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/demoxavi12/DSA-problems/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/demoxavi12/DSA-problems/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/demoxavi12/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/demoxavi12/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/demoxavi12/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/demoxavi12/DSA-problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/demoxavi12/DSA-problems/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/demoxavi12/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/demoxavi12/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
