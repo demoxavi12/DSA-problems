@@ -1,17 +1,24 @@
 class Solution {
     public boolean isValid(String str) {
-        if (str.length() % 2 == 1)
-            return false;
-
-        char[] S = str.toCharArray();
-        int i = 0;
-
-        for (char c : S)
-            if ((c & 3) != 1)
-                S[i++] = c;
-            else if (i == 0 || ((c - S[--i] + 1) >> 1) != 1)
-                return false;        
-
-        return i == 0;
+       Stack<Character>st= new Stack<>();
+       int n=str.length();
+       for(int i=0;i<n;i++){
+        char top= str.charAt(i);
+        if(top=='(' || top=='{' || top=='['){
+            st.push(top);
+        }
+        else{
+            if(st.isEmpty()){
+                return false;
+            }
+            char ch = st.peek();
+            if(ch=='('&& top ==')' || ch=='{'&& top =='}' || ch=='['&& top ==']'){
+                st.pop();
+            }else{
+                return false;
+            }
+        }
+       }
+       return st.isEmpty();
     }
 }
