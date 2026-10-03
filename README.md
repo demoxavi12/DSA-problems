@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/demoxavi12/DSA-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/demoxavi12/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/demoxavi12/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/demoxavi12/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -323,8 +324,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/demoxavi12/DSA-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/demoxavi12/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/demoxavi12/DSA-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/demoxavi12/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
