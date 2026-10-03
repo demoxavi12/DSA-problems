@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/demoxavi12/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/demoxavi12/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/demoxavi12/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/demoxavi12/DSA-problems/tree/master/0410-split-array-largest-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/demoxavi12/DSA-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/demoxavi12/DSA-problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/demoxavi12/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/demoxavi12/DSA-problems/tree/master/0205-isomorphic-strings) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/demoxavi12/DSA-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/demoxavi12/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/demoxavi12/DSA-problems/tree/master/0496-next-greater-element-i) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/demoxavi12/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
