@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/demoxavi12/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/demoxavi12/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/demoxavi12/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/demoxavi12/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/demoxavi12/DSA-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/demoxavi12/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 ## Sorting
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/demoxavi12/DSA-problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/demoxavi12/DSA-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/demoxavi12/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/demoxavi12/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/demoxavi12/DSA-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/demoxavi12/DSA-problems/tree/master/1096-brace-expansion-ii) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/demoxavi12/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/demoxavi12/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/demoxavi12/DSA-problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/demoxavi12/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/demoxavi12/DSA-problems/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/demoxavi12/DSA-problems/tree/master/1096-brace-expansion-ii) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/demoxavi12/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/demoxavi12/DSA-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/demoxavi12/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/demoxavi12/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/demoxavi12/DSA-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
