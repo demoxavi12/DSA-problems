@@ -1,8 +1,8 @@
 class StockSpanner {
-    Stack<int[]>st;
+    Deque<int[]>st;
     int index;
     public StockSpanner() {
-        st = new Stack<>();
+       st=new ArrayDeque();
         index=-1;
     }
     
