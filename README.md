@@ -373,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/demoxavi12/DSA-problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/demoxavi12/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
