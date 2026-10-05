@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/demoxavi12/DSA-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/demoxavi12/DSA-problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/demoxavi12/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/demoxavi12/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/demoxavi12/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/demoxavi12/DSA-problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/demoxavi12/DSA-problems/tree/master/0074-search-a-2d-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/demoxavi12/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/demoxavi12/DSA-problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/demoxavi12/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/demoxavi12/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/demoxavi12/DSA-problems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/demoxavi12/DSA-problems/tree/master/0410-split-array-largest-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/demoxavi12/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/demoxavi12/DSA-problems/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
