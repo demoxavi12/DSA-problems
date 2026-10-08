@@ -4,33 +4,20 @@ class Solution {
         if (head == null) {
             return null;
         }
-
-        // Count number of nodes
-        int count = 0;
-        ListNode temp = head;
-
-        while (temp != null) {
-            count++;
-            temp = temp.next;
+        ListNode fast=head;
+        for(int i=0;i<n;i++){
+            fast=fast.next;
         }
-
-        // Position from the beginning
-        int k = count - n + 1;
-
-        // If deleting head
-        if (k == 1) {
+        if(fast==null){
             return head.next;
         }
-
-        // Move to node before the one we want to delete
-        temp = head;
-
-        for (int i = 1; i < k - 1; i++) {
-            temp = temp.next;
+        ListNode slow =head;
+        while(fast.next !=null){
+            slow=slow.next;
+            fast = fast.next;
         }
-
-        // Delete kth node
-        temp.next = temp.next.next;
+        slow.next=slow.next.next;
+       
 
         return head;
     }
