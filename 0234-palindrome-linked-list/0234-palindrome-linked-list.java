@@ -9,19 +9,40 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-        Deque<Integer> st = new ArrayDeque<>();
-        ListNode temp =head;
-        while(temp !=null){
-            st.push(temp.val);
-            temp=temp.next;
-        }
-        temp = head;
+    public ListNode reverse(ListNode head){
+       
+        ListNode temp=head;
+        ListNode prev = null;
         while(temp != null){
-            if(temp.val != st.peek())return false;
-            temp = temp.next;
-            st.pop();
+            ListNode front = temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=front;
         }
-        return true;      
+        return prev;
+    }
+
+    public boolean isPalindrome(ListNode head) {
+        ListNode slow = head;
+        ListNode fast=head;
+
+        while(fast.next != null && fast.next.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        ListNode newNode = reverse(slow.next);
+        ListNode first = head;
+        ListNode second = newNode;
+
+        while(second !=null){
+            if(first.val != second.val){
+                reverse(newNode);
+                return false;
+            }
+            first=first.next;
+            second  = second.next;
+        }
+        reverse(newNode);
+        return true;
     }
 }
