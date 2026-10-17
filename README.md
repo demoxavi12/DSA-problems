@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/demoxavi12/DSA-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/demoxavi12/DSA-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/demoxavi12/DSA-problems/tree/master/3525-find-x-value-of-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/demoxavi12/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/demoxavi12/DSA-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/demoxavi12/DSA-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/demoxavi12/DSA-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/demoxavi12/DSA-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/demoxavi12/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/demoxavi12/DSA-problems/tree/master/1096-brace-expansion-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/demoxavi12/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/demoxavi12/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/demoxavi12/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/demoxavi12/DSA-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
