@@ -3,11 +3,11 @@ class Solution {
         List<Integer> res = new ArrayList<>();
        int small=0;
        int targetCount=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]<target){
+        for(int num:nums){
+            if(num<target){
                 small++;
             }
-            else if(nums[i]==target){
+            else if(num==target){
                 targetCount++;
             }
         }
