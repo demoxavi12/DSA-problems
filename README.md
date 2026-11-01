@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/demoxavi12/DSA-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/demoxavi12/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/demoxavi12/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/demoxavi12/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/demoxavi12/DSA-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/demoxavi12/DSA-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/demoxavi12/DSA-problems/tree/master/0503-next-greater-element-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/demoxavi12/DSA-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/demoxavi12/DSA-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/demoxavi12/DSA-problems/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/demoxavi12/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/demoxavi12/DSA-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/demoxavi12/DSA-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/demoxavi12/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
