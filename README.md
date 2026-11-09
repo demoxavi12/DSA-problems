@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/demoxavi12/DSA-problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/demoxavi12/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/demoxavi12/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/demoxavi12/DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demoxavi12/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/demoxavi12/DSA-problems/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/demoxavi12/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/demoxavi12/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/demoxavi12/DSA-problems/tree/master/0735-asteroid-collision) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/demoxavi12/DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/demoxavi12/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/demoxavi12/DSA-problems/tree/master/0493-reverse-pairs) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/demoxavi12/DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Treap
 |  |
 | ------- |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/demoxavi12/DSA-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/demoxavi12/DSA-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/demoxavi12/DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/demoxavi12/DSA-problems/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/demoxavi12/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/demoxavi12/DSA-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
